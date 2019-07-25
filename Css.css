@@ -1,0 +1,149 @@
+body {
+	background-image: url(image/image5.png);
+	margin: 0;
+	font-family: "Poppins", sans-serif;
+
+}
+
+.color_text_title {
+    color: black;
+    text-align: center;
+    background-color: beige ;
+    font-size:40px;
+    position:sticky;
+    top:0;
+
+}
+
+#color_head {
+	background:white;
+	box-shadow: 0 .5rem 1rem rgba(0,0,0,.05),inset 0 -1px 0 rgba(0,0,0,.1);
+
+}
+
+.shadowA {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.05),inset 0 -1px 0 rgba(0,0,0,.1);
+}
+
+#acceui_style {
+	background-color: bisque;
+}
+
+#one_page_style {
+	background-color: burlywood;
+}
+
+#sous_head {
+	background-color: antiquewhite ;
+
+
+}
+
+.bar_access {
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:50px;
+	padding-left: 50px;
+}
+
+#commant {
+	background:url(image/image.png);
+	text-align: middle;
+	padding-top: 5px ;
+	padding-left: 20px;
+	padding-right:20px;
+	padding-bottom: 5px;
+	color:#262626;
+	text-shadow:black;
+
+}
+
+.commant_text1 {
+	background:#f2f2f2;
+	padding-bottom: 40px;
+	padding-top:3px;
+	padding-right:10px;
+	padding-left:10px;
+}
+
+.commant_text2 {
+	font-size:40px;
+	text-align: center;
+}
+
+.border1 {
+	border:30px;
+	border-color: white ;
+}
+
+.textmiddle1 {
+	padding-left:10px;
+}
+
+.textD1 {
+	text-decoration: none;
+	color:black;
+}
+
+.image1 {
+	padding-top:7px;
+
+}
+
+.image2 {
+	padding-top:7px;
+	padding-left: 10px;
+	padding-bottom: 7px;
+}
+
+#etape2prg {
+	color:black;
+	background:white;
+}
+
+#clicked {
+	background-color: chocolate;
+}
+
+.imageSty {
+  background-image: url("image/image3.png");
+  background-size: cover;
+  position: relative;
+  height: 300px;
+}
+
+.text_Init {
+  background-image: url(image/image4.png);
+  color: black;
+  font-size: 10vw; 
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: screen;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.05),inset 0 -1px 0 rgba(0,0,0,.1);
+
+}
+
+
+.textbackgroundC {
+    background: #D8D8D8;
+    padding-bottom: 10px;
+	padding-top:3px;
+	padding-right:10px;
+	padding-left:10px;
+}
+.image3 {
+      transform: translate(270%, 0%);
+
+    
+}
+
+.emplacement {
+    transform: translate(-400% , 0%)
+}
